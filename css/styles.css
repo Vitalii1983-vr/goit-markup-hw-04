@@ -49,6 +49,7 @@ img {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
+  position: relative;
 }
 
 .header-logo {
@@ -408,7 +409,7 @@ img {
 .portfolio-container {
   position: relative;
   overflow: hidden;
-  height: 360px; 
+  height: 1128px; 
   width: 100%;
 }
 
@@ -444,7 +445,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  height: 100%;
+  height: auto;
   width: 100%;
   padding: 40px 32px;
   transform: translateY(100%);
