@@ -77,7 +77,7 @@ img {
   position: relative;
 }
 
-nav-link.selected::after {
+::after {
   content: '';
   position: absolute;
   left: 0;
